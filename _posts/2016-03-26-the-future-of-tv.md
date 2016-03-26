@@ -1,24 +1,24 @@
 ---
-description: ''
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:f0823e84-aff9-438b-bd1f-76e218485e05'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-26T18:57:03.027Z'
+dateModified: '2016-03-26T18:56:52.737Z'
 author: []
-datePublished: '2016-03-26T18:46:37.306Z'
+title: The Future of TV
+sourcePath: _posts/2016-03-26-the-future-of-tv.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-title: The Future of TV
-dateModified: '2016-03-26T18:46:29.678Z'
-sourcePath: _posts/2016-03-26-the-future-of-tv.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-authors: []
 _context: 'http://schema.org'
 _type: Article
 
