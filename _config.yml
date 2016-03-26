@@ -1,0 +1,28 @@
+name: dalesys
+favicon: null
+layout_spectrum: 0.6615722908172756
+typography_spectrum: 0.0750801800750196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7525721550919116
+  lightness: 0.740136732114479
+  saturation: 0.7070022628176957
+  rhythmicContrast: 0.42682163300924003
+purpose: []
