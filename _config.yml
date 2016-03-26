@@ -2,6 +2,7 @@ name: dalesys
 favicon: null
 layout_spectrum: 0.49021
 typography_spectrum: 1
+title: DALESYS
 cta:
   domain: null
   bucket: null
