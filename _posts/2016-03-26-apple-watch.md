@@ -17,8 +17,8 @@ keywords:
   - favourite
   - way
 description: 'From the way it works to the way it looks, Apple Watch is an essential part of who you are.'
-datePublished: '2016-03-26T19:27:39.630Z'
-dateModified: '2016-03-26T19:27:39.209Z'
+datePublished: '2016-03-26T19:29:56.994Z'
+dateModified: '2016-03-26T19:29:23.640Z'
 author: []
 related: []
 app_links:
@@ -27,7 +27,7 @@ app_links:
     namespace: ai
     app_name: Apple Store
     app_store_id: '375380948'
-title: Apple Watch
+title: New Watch Band Update
 sourcePath: _posts/2016-03-26-apple-watch.md
 published: true
 authors: []
@@ -40,6 +40,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Apple Watch
+# New Watch Band Update
 
 <article style=""><h1>Apple Watch</h1><p>From the way it works to the way it looks, Apple Watch is an essential part of who you are.</p><img src="http://images.apple.com/uk/watch/images/shared/og_overview.png?201603201115" /></article>
