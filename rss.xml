@@ -4,7 +4,7 @@
         <description><![CDATA[DALESYS]]></description>
         <link>https://thegrid.ai/dalesys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 19:00:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dalesys/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future of TV]]></title>
@@ -12,13 +12,6 @@
             <link>urn:uuid:f0823e84-aff9-438b-bd1f-76e218485e05</link>
             <guid isPermaLink="false">969f1197-6db4-4721-bc21-aba63e18c949</guid>
             <pubDate>Sat, 26 Mar 2016 18:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baku]]></title>
-            <description><![CDATA[<article><h1>Baku</h1><p>Even when compared to city circuits Baku is unique - [it] is expected be the fastest street circuit on the F1 calendar... Hermann Tilke With the circuit set to host Formula One racing for the first time on June 17-19, Tilke says the layout and setting will present drivers with a completely original challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/986741822abf3f15195f47c6423ba37eff978c18.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dalesys/baku/index.html</link>
-            <guid isPermaLink="false">92eecaa6-fc85-4f44-93e1-2d501a14b6a2</guid>
-            <pubDate>Sat, 26 Mar 2016 18:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
