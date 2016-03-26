@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:f0823e84-aff9-438b-bd1f-76e218485e05'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-26T19:41:15.352Z'
-dateModified: '2016-03-26T19:39:58.445Z'
+datePublished: '2016-03-26T19:48:11.285Z'
+dateModified: '2016-03-26T19:47:30.940Z'
 author: []
 title: The Future of TV
 sourcePath: _posts/2016-03-26-the-future-of-tv.md
