@@ -1,4 +1,4 @@
-name: dalesys
+name: Test
 favicon: null
 layout_spectrum: 0.25236
 typography_spectrum: 1
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dbdbdb'
-    - '#0b0706'
-    - '#ab937b'
-    - '#5f2b1b'
-    - '#946140'
+    - '#02101b'
+    - '#fcfcfc'
+    - '#1d65bf'
+    - '#ab96b9'
+    - '#fc5447'
   brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
