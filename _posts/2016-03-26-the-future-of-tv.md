@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T18:57:03.027Z'
-dateModified: '2016-03-26T18:56:52.737Z'
+datePublished: '2016-03-26T18:58:12.439Z'
+dateModified: '2016-03-26T18:58:03.537Z'
 author: []
 title: The Future of TV
 sourcePath: _posts/2016-03-26-the-future-of-tv.md
@@ -25,4 +25,4 @@ _type: Article
 ---
 # The Future of TV
 
-<article style=""><h1>How Vizio and Google radically reinvented the TV</h1><p>Matt McRae is fired up about remote controls. Or, more specifically, about getting rid of them. McRae is the chief technology officer of Vizio, a company that sells more TVs - and with them, remotes - than any other company in America. And he thinks remote controls are very, very stupid.</p><img src="https://cdn1.vox-cdn.com/thumbor/osmaJd-pvw_D28EFy1yq5VYY97A=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6227569/pbarshon_160317_0983_0136.0.png" /></article>
+<article style=""><h1>How Vizio and Google radically reinvented the TV</h1><p>Matt McRae is fired up about remote controls. Or, more specifically, about getting rid of them. McRae is the chief technology officer of Vizio, a company that sells more TVs - and with them, remotes - than any other company in America. And he thinks remote controls are very, very stupid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4d5762ce0e2153a6fee5135bd9a2b8293ee7a54.png" /></article>
