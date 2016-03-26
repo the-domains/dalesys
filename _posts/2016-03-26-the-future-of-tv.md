@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T19:39:52.802Z'
-dateModified: '2016-03-26T19:39:03.329Z'
+datePublished: '2016-03-26T19:41:15.352Z'
+dateModified: '2016-03-26T19:39:58.445Z'
 author: []
 title: The Future of TV
 sourcePath: _posts/2016-03-26-the-future-of-tv.md
