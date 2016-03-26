@@ -1,7 +1,7 @@
 name: Test
 favicon: null
 layout_spectrum: 0.75833
-typography_spectrum: 0.93257
+typography_spectrum: 0.94606
 title: Dalesys
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ab96b9'
     - '#fc5447'
   brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 0.1875
+  lightness: 0.125
+  saturation: 0.8125
   rhythmicContrast: 0.5
 purpose: []
