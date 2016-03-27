@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: AETHER Apparel highlights
-datePublished: '2016-03-27T17:24:02.706Z'
-dateModified: '2016-03-27T17:23:31.857Z'
+datePublished: '2016-03-27T17:32:18.720Z'
+dateModified: '2016-03-27T17:25:03.253Z'
 author: []
 related: []
 app_links:
