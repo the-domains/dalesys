@@ -17,8 +17,8 @@ keywords:
   - syncardia
   - machine
 description: "Steve Williams couldn't breathe. The former athlete had cardiomyopathy, which occasionally choked his lungs with fluid, making him gasp for air. But this felt different; Williams felt like he was dying. He was raced to an Orange County hospital, and shortly after checking in, his heart stopped."
-datePublished: '2016-03-27T09:47:52.386Z'
-dateModified: '2016-03-27T09:46:56.790Z'
+datePublished: '2016-03-27T12:26:41.879Z'
+dateModified: '2016-03-27T12:26:32.344Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Inside the 50-year-quest to build a mechanical heart</h1><p>Steve Williams couldn't breathe. The former athlete had cardiomyopathy, which occasionally choked his lungs with fluid, making him gasp for air. But this felt different; Williams felt like he was dying. He was raced to an Orange County hospital, and shortly after checking in, his heart stopped.</p><img src="https://cdn3.vox-cdn.com/thumbor/ASnDrCtq8QYny73ceZqJ__9SRUc=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4227295/JohnFPeters_MECHHEART_FINALS_008.0.jpg" /></article>
+<article style=""><h1>Inside the 50-year-quest to build a mechanical heart</h1><p>Steve Williams couldn't breathe. The former athlete had cardiomyopathy, which occasionally choked his lungs with fluid, making him gasp for air. But this felt different; Williams felt like he was dying. He was raced to an Orange County hospital, and shortly after checking in, his heart stopped.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b549ead2fb9a7fa519a3753562641e61bb5f6855.jpg" /></article>
