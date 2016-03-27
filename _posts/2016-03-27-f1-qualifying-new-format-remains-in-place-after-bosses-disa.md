@@ -17,8 +17,8 @@ keywords:
   - boss
   - tyre
 description: "The future of Formula 1's qualifying format remains shrouded in confusion after bosses failed to agree on a change for the next race in Bahrain. Teams decided at the season-opening race in Australia to ditch the new elimination system and revert to the one that had been in place for 2015."
-datePublished: '2016-03-27T17:36:05.582Z'
-dateModified: '2016-03-27T17:35:52.739Z'
+datePublished: '2016-03-27T17:37:04.424Z'
+dateModified: '2016-03-27T17:36:49.504Z'
 author: []
 related:
   - score: 0.5118903518
