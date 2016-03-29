@@ -17,8 +17,8 @@ keywords:
   - yep
   - take
 description: "Heading in that direction, you see his back is turned. He's balancing on the back two legs of a ratty chair, pencil-thin legs crossed and resting on a tree stump. Petting his Blue Heeler, he pulls from a pale blue-andwhite can of beer that he rests on the scorched grass."
-datePublished: '2016-03-29T15:45:20.197Z'
-dateModified: '2016-03-29T15:44:20.309Z'
+datePublished: '2016-03-29T15:47:27.799Z'
+dateModified: '2016-03-29T15:46:30.732Z'
 author:
   - name: Jesse Lenz
     url: 'http://www.collectivequarterly.com/blog/?author=51815969e4b00655d3962088'
